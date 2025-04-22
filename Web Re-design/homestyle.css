@@ -900,7 +900,7 @@ overflow: hidden;
 .wave-container {
   transform: scale(3);
   bottom: 130px;
-  width: calc(100% - 382px);
+  width: calc(100% - 373px);
   overflow: hidden;
   z-index: 0;
 }
@@ -941,36 +941,45 @@ overflow: hidden;
     padding: 15px;
     gap: 10px;
   }
+
   .menu {
     padding: 15px 30px;
     gap: 20px;
   }
+
   .nav-container .logo {
     width: 50px;
     height: 50px;
   }
+
   .menu a {
     font-size: 14px;
   }
+
   .yukai {
     padding: 0px 15px;
     margin-top: 90px;
   }
+
   .yukai p {
     width: 60%;
   }
+
   h1, .yukai h1, .shop-cta h1, .working-section h1, .footer-content h1 {
     font-size: 40px;
   }
+
   p, .yukai p, .bio-text, .shop-container p, .review-text, .footer-content p {
     font-size: 16px;
     line-height: 1.4;
   }
+
   .gallery {
     padding: 0px 15px;
     gap: 0px;
     margin-top: 0px;
   }
+
   .home1, .home2, .home3, .home4, .home5, .home6, .home7 {
     border-width: 6px;
   }
@@ -979,87 +988,108 @@ overflow: hidden;
     padding: 6px 18px;
     font-size: 12px;
   }
+
   .worldy {
     margin-top: -20px;
   }
+
   .shop {
     margin-top: 15px;
     padding: 15px;
   }
+
   .shop-item {
     flex-direction: column;
     gap: 20px;
     width:92%;
   }
+
   .shop-container {
     padding: 15px 15px;
   }
+
   .working {
     margin-top: -40px;
   }
+
   .working-section h1 {
     padding: 0px 15px;
   }
+
   .cta-work {
     margin-left: 15px;
   }
+
   .info-box {
     width: 90%;
     margin: 10px 15px;
     padding: 15px 5px;
   }
+
   .info-box .content {
     padding: 0px 25px;
   }
+
   .arrow {
     padding: 7px 0px;
     width: 30px;
     font-size: 20px;
   }
+
   .image-container {
     flex-wrap: wrap;
     justify-content: center;
   }
+
   .interactive-image {
     width: 80px;
   }
+
   .footer {
     margin-top: 80px;
   }
+
   .wave-container {
     transform: scale(2.8);
     bottom: 130px;
     width: calc(100% - 200px);
   }
-  .footer-content h1 {
-    padding: 0px 15px;
-  }
+  
   .footer-content p {
     width: 85%;
     padding: 0px 15px;
   }
+
   .social-icons {
     bottom: 60px;
     left: 15px;
     gap: 8px;
   }
+
   .social-icon {
     width: 45px;
     height: 45px;
   }
+  
   .social-icon svg {
     width: 24px;
     height: 24px;
   }
+
   .gallery .col-3 .row-1 {
     padding: 25px 0px;
   }
+
   .gallery .col-3 .row-2 {
     margin-top: -28px;
   }
+
   .cta-contact {
     margin-right: 15px;
   }
+  
 }
 }
+
+
 
